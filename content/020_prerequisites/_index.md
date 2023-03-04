@@ -16,8 +16,6 @@ tags:
 
 # Getting Started
 
-{{< youtube VXj9w6Oq1Y0 >}}
-
 To start the workshop, follow one of the following depending on whether you are...
 
 * ...[running the workshop on your own (in your own account)](self_paced/), or
