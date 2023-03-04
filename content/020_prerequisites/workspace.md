@@ -4,21 +4,6 @@ chapter: false
 weight: 14
 ---
 
-{{% notice warning %}}
-The Cloud9 workspace should be built by an IAM user with Administrator privileges,
-not the root account user. Please ensure you are logged in as an IAM user, not the root
-account user.
-{{% /notice %}}
-
-{{% notice warning %}}
-If you are at an AWS Hosted Event the Cloud 9 Environment is already built for you. Just open the existing IDE in the Cloud9 console.
-{{% /notice %}}
-
-{{% notice info %}}
-A list of supported browsers for AWS Cloud9 is found [here]( https://docs.aws.amazon.com/cloud9/latest/user-guide/browsers.html).
-{{% /notice %}}
-
-
 <!---
 {{% notice info %}}
 This workshop was designed to run in the **Oregon (us-west-2)** region. **Please don't
